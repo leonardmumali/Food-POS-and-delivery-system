@@ -1,2 +1,2 @@
 # Food-POS-and-delivery-system
-customers make orders on a web app, makes payment through Mpesa, Paypal, Credit or debit card, the kitchen sees the order, once the order is ready the riders accept the order, and can be tracked by the client in real time
+customers make orders on a web app, makes payment through Mpesa, Paypal, Credit or debit card, the kitchen sees the order, once the order is ready the riders accept the order, and can be tracked by the client in real time, the admin can track, the inventory, manage users, manage sales, expenses, ledgers, manage menu in the POS, manage riders, balance sheet, profits and loses, 
